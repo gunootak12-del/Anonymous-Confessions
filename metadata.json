@@ -1,0 +1,6 @@
+{
+  "name": "Anonymous Confessions",
+  "description": "A minimalist, page-by-page anonymous confession website with elegant card designs and micro-interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
